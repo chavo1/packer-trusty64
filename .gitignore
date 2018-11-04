@@ -1,7 +1,3 @@
-packer_cache/
-output-*/
+.vagrant
+packer_cache/*
 *.box
-*.iso
-.DS_Store
-.vagrant/
-.kitchen/
